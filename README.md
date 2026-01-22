@@ -75,6 +75,10 @@ This dashboard highlights **data quality issues by region and status**.
 
 This project simulates real financial operations monitoring workflows.
 
+## Dashboard Preview
+![ETP Dashboard]<img width="1470" height="956" alt="etp_dashboard" src="https://github.com/user-attachments/assets/c23f6d18-13a6-442b-8ec3-32b3021432b8" />
+
+
 ---
 
 ### Author
